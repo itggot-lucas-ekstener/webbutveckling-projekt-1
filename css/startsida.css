@@ -4,7 +4,6 @@ body{
     margin: 0;
     display:flex;
     justify-content: center;
-    /* background-image: url(../img/kiandymundi2.jpg); */
     background-image: url(../img/maxresdefault_edited.jpg);
     background-attachment: fixed;
     background-size: cover;
@@ -28,10 +27,14 @@ body{
 }
 
 .name{
+    width: 400px;
     font-size: 60px;
     margin: 20px;
     color: hotpink;
     opacity: 1;
+    display: flex;
+    justify-content: center;
+
 }
 
 .nav{
