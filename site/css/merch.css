@@ -4,10 +4,6 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
-    /* background-image: url(); */
-    /* background-attachment: fixed; */
-    /* background-size: cover; */
-    /* background-repeat: no-repeat; */
     background-color: hotpink; 
 
 }
@@ -20,7 +16,6 @@ body{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     position: fixed;
     background-color: dimgrey;
-    /* opacity: 0.8; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +34,6 @@ body{
 }
 
 .nav{
-
     font-size: 40px;
     margin: 20px;   
 }
@@ -80,7 +74,6 @@ body{
 }
 
 .merch{
-    /* background-color: gray; */
     height: 300px;
     width: 300px;
     margin: 20px;
@@ -92,12 +85,10 @@ body{
     padding:10px;
     border-radius: 2px;
     box-shadow: 0 0 2px;
-    /* font-size: 15px; */
+   
 }
 
 .merch:hover{
-    /* border-width: 5px;
-    margin: 16px; */
     box-shadow: 0 0 10px hotpink;
 }
 #logo_hoodie{
