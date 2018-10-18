@@ -38,7 +38,6 @@ body{
 }
 
 .nav{
-
     font-size: 40px;
     margin: 20px;   
 }
@@ -75,14 +74,6 @@ body{
 
 }
 
-/* #patreonbild{
-    background-image: url(../img/Patreon_logo.svg);
-    width: 100px;
-    height: 100px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    
-} */
 
 #patreontext{
     width: 200px;
