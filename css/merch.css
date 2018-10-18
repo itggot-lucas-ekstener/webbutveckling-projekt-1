@@ -4,11 +4,11 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
-    background-image: url();
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: hotpink;
+    /* background-image: url(); */
+    /* background-attachment: fixed; */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    background-color: hotpink; 
 
 }
 
@@ -76,6 +76,7 @@ body{
     flex-direction: row;
     justify-content: center;
     padding-top: 100px;
+    box-shadow: 0 0 5px;
 }
 
 .merch{
